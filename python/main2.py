@@ -9,7 +9,7 @@ num1 = float(num1)
 num2 = float(num2)
 
 # Calculate the sum
-sum_result = num1 + num2
+mul_result = num1 * num2
 
 # Print the sum
-print(f"The sum of {num1} and {num2} is {sum_result}.")
+print(f"The sum of {num1} and {num2} is {mul_result}.")
